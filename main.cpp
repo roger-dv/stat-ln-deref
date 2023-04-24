@@ -2,8 +2,7 @@
  *
  * Copyright 2023 Roger D. Voss
  *
- * Created by github user roger-dv on 09/28/2019.
- * Updated by github user roger-dv on 04/16/2023.
+ * Created by github user roger-dv on 04/24/2023.
  *
  * Licensed under the MIT License - refer to LICENSE project document.
  *
