@@ -43,6 +43,8 @@ int main(int argc, const char **argv) {
     printf("\"%s\" ==>>\n", filepath.data());
     stat_filepath({}, filepath);
   }
+
+  return EXIT_SUCCESS;
 }
 
 static void stat_filepath(fs::path base_dir, std::string_view filepath, int depth) {
